@@ -1,0 +1,14 @@
+/*Removes default on the body-tag*/
+body{
+}margin:0;
+
+header{
+  background-color:#00008B;
+  color: blue;
+}
+
+#Dog{
+  background-color:#FFFF00;
+  height: 250px;
+  width: 300px;
+}
